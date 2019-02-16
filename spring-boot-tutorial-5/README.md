@@ -1,4 +1,4 @@
-deployed on heroku:  java-getting-started-3
+deployed on heroku:  https://spring-boot-tutorial-5.herokuapp.com/
 
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
